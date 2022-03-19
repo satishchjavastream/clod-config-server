@@ -1,1 +1,1 @@
-# clod-config-server
+# cloud-config-server
